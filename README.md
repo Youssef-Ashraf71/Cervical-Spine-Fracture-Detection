@@ -78,5 +78,5 @@ All team members contributed equally to data collection, preprocessing, model se
 
 - Mariam Ahmed Said  
   Systems and Biomedical Engineering, Cairo University  
-  Email: maryam.abdulmajeed01@eng-st.cu.edu.eg【5†source】. 
+  Email: maryam.abdulmajeed01@eng-st.cu.edu.eg. 
 
